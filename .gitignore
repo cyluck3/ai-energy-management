@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+env/
+
+# Ignorar otras carpetas
+docs/
+
+# Ignorar caché de Python
+__pycache__/
+
+# Ignorar configuraciones sensibles
+config.env
